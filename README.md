@@ -107,4 +107,4 @@ See the [example](example/strapi_populate_builder_example.dart) directory for a 
 
 ## 🔒 License
 
-MIT © [Your Name](https://github.com/AlexeyShevchenko)
+MIT © [Aleksey Shevchenko](https://github.com/AlexeyShevchenko)
