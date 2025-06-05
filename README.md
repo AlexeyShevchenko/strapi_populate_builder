@@ -25,7 +25,7 @@ Add the package to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  strapi_populate_builder: ^0.0.1
+  strapi_populate_builder: ^1.0.0
 ```
 
 Import it:
