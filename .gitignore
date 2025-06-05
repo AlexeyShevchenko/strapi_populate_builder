@@ -1,0 +1,26 @@
+# Dart tool artifacts
+.dart_tool/
+.packages
+build/
+pubspec.lock
+
+# Documentation
+doc/api/
+
+# Environment variables
+.env*
+
+# JS compilation outputs
+*.dart.js
+*.info.json
+*.js
+*.js_
+*.js.deps
+*.js.map
+
+# IDE / OS
+.DS_Store
+.vscode/
+
+# Code coverage
+coverage/
